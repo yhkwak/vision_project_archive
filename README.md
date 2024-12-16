@@ -23,9 +23,9 @@
 처음엔 train 94%, validation 7% 나오다가 어느순간 validation 값 급격하게 상승
 test 데이터도 최종 100%
 
-사용 데이터: 품질 이상탐지,진단(크로메이트) AI 데이터셋
-train: pass 416장, fail 59장
-validation: pass 148장, fail 12장
-test: pass 128장, fail 3장
+사용 데이터: 품질 이상탐지,진단(크로메이트) AI 데이터셋 <br>
+train: pass 416장, fail 59장 <br>
+validation: pass 148장, fail 12장 <br>
+test: pass 128장, fail 3장 <br>
 
 
