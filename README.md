@@ -16,6 +16,7 @@
 - Yolo v8을 사용할지 CNN을 사용할지 고려, 하이브리드 모델도 사용 가능
 
 - 다른 데이터셋을 이용하여 다시 학습
+<br>
 ![image](https://github.com/user-attachments/assets/86a9f16b-df81-49ab-9eca-5778489f235b)
 
 처음엔 train 94%, validation 7% 나오다가 어느순간 validation 값 급격하게 상승
